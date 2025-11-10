@@ -8,7 +8,6 @@ This README explains how to run the sniffers end-to-end (live capture → save t
 
 - `sniffer.py` — raw-socket sniffer for **Linux** (prints parsed Ethernet/IP/TCP/UDP/ICMP to console)  
 - `sniffer_scap.py` — **Scapy**-based sniffer for **Windows** (prints live summaries and saves to a `.pcap` file)  
-- `README.md` — this file
 
 ---
 
